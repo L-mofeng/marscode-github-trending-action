@@ -1,0 +1,8 @@
+{
+    "name": "github_trending_action",
+    "dependencies": {
+      "@marscode/baas-sdk": "^1.0.1",
+      "cheerio": "1.0.0-rc.12"
+    }
+  }
+  
